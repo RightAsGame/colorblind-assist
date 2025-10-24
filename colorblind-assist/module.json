@@ -1,0 +1,40 @@
+/*
+ * Colorblind Assist for Foundry VTT
+ * Copyright (c) 2025 Right As Game Inc.
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the “Software”), to use,
+ * copy, modify, merge, publish, and distribute the Software without restriction,
+ * provided that:
+ *
+ * 1. The above copyright notice and this permission notice appear in all copies
+ *    or substantial portions of the Software.
+ * 2. Credit is clearly given to the original creator: Right As Game Inc.
+ *
+ * THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
+
+
+{
+  "id": "colorblind-assist",
+  "title": "Colorblind Assist",
+  "description": "Adds color-blind filters and black-and-white textured token rings for accessibility.",
+  "version": "1.0.0",
+  "authors": [{ "name": "Right As Game Inc." }],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "scripts": ["scripts/main.js"],
+  "styles": ["styles/colorblind-assist.css"],
+  "manifest": "",
+  "readme": "",
+  "license": "MIT",
+  "url": ""
+}

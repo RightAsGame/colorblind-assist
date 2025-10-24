@@ -1,0 +1,20 @@
+/* Keep optional visual hints high-contrast & readable */
+.cba-label {
+  position: absolute;
+  font-weight: 700;
+  font-family: var(--font-primary, sans-serif);
+  font-size: 12px;
+  line-height: 1;
+  padding: 2px 4px;
+  border-radius: 3px;
+  background: rgba(0,0,0,0.75);
+  color: #fff;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+}
+
+.cba-settings-note {
+  color: #999;
+  font-size: 12px;
+}
