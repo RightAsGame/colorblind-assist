@@ -13,3 +13,6 @@ A lightweight accessibility module that provides:
 
 This module is free to use and modify.  
 Please include visible credit to **Right As Game Inc.** when publishing derived works.
+
+A video that walks through the features of the module can be found here:
+https://drive.google.com/file/d/19QVe4u4JfM3MOgGkeX5y-kdXiA0b9CEb/view?usp=sharing
