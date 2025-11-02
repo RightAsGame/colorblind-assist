@@ -15,4 +15,4 @@ This module is free to use and modify.
 Please include visible credit to **Right As Game Inc.** when publishing derived works.
 
 A video that walks through the features of the module can be found here:
-https://drive.google.com/file/d/19QVe4u4JfM3MOgGkeX5y-kdXiA0b9CEb/view?usp=sharing
+https://drive.google.com/file/d/1iHi2m3mbYISHuxkwnbOfddR3k3F_o7L3/view?usp=sharing
