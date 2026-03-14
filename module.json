@@ -1,0 +1,33 @@
+
+{
+  "id": "colorblind-assist",
+  "title": "Colorblind Assist",
+  "description": "Adds optional colorblind filters, high-contrast token outlines, and an accessible black-and-white ping overlay for Foundry VTT.",
+  "version": "1.0.2",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "authors": [
+    {
+      "name": "Right As Game Inc.",
+      "url": "https://rightasgame.com",
+      "email": "support@rightasgame.com",
+      "discord": ""
+    }
+  ],
+  "scripts": ["scripts/main.js"],
+  "styles": ["styles/colorblind-assist.css"],
+  "esmodules": [],
+  "languages": [],
+  "packs": [],
+  "relationships": {},
+  "license": "MIT-Attribution (Right As Game Inc.)",
+  "readme": "https://github.com/RightAsGame/colorblind-assist/blob/main/README.md",
+  "changelog": "https://github.com/RightAsGame/colorblind-assist/blob/main/CHANGELOG.md",
+  "bugs": "https://github.com/rightasgame/colorblind-assist/issues",
+  "url": "https://github.com/RightAsGame/colorblind-assist",
+  "manifest": "https://github.com/RightAsGame/colorblind-assist/releases/latest/download/module.json",
+  "download": "https://github.com/RightAsGame/colorblind-assist/releases/latest/download/colorblind-assist.zip"
+}
